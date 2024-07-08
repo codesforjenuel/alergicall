@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "database_development",
+    "password": "Devjp@310712",
+    "database": "allergicall_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
